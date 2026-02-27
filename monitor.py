@@ -44,30 +44,6 @@ def save_data(data):
     with open(DATA_FILE, "w") as f:
         json.dump(list(data), f)
 
-
-# def check_genre(genre, known_ids):
-#     url = f"https://openlibrary.org/search.json?subject={genre}&sort=new&limit=20"
-#     response = requests.get(url)
-#     books = response.json()["docs"]
-
-#     new_found = False
-
-#     for book in books:
-#         # Skip if language field missing
-#         if "language" not in book:
-#             continue
-
-#         # Keep only English books
-#         if "eng" not in book["language"]:
-#             continue
-
-#         if book["key"] not in known_ids:
-#             print(f"New {genre} book found:", book["title"])
-#             send_email(book, genre)
-#             known_ids.add(book["key"])
-
-
-
 CURRENT_YEAR = datetime.now().year
 MIN_EDITIONS = 3
 
