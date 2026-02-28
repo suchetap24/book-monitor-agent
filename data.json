@@ -1,0 +1,44 @@
+{
+    "/works/OL44952118W": {
+        "title": "Nameless",
+        "genre": "fantasy",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-02-28T16:47:48.192947"
+    },
+    "/works/OL44871055W": {
+        "title": "Just For The Cameras",
+        "genre": "romance",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-02-28T16:47:49.666672"
+    },
+    "/works/OL42459479W": {
+        "title": "Whispers of Starlight",
+        "genre": "romance",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-02-28T16:47:50.614246"
+    },
+    "/works/OL29405311W": {
+        "title": "Conspiracy of Bones",
+        "genre": "fiction",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-02-28T16:47:52.166834"
+    },
+    "/works/OL29400003W": {
+        "title": "Vengeance",
+        "genre": "fiction",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-02-28T16:47:52.989515"
+    },
+    "/works/OL42442508W": {
+        "title": "Woman with Eyes Closed",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-02-28T16:47:54.189441"
+    }
+}
