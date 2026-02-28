@@ -42,7 +42,8 @@ def load_data():
 
 def save_data(data):
     with open(DATA_FILE, "w") as f:
-        json.dump(list(data), f)
+        json.dump(list(data), f,indent=4)
+
 
 CURRENT_YEAR = datetime.now().year
 MIN_EDITIONS = 3
