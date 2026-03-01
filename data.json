@@ -40,5 +40,12 @@
         "ai_decision": "YES",
         "notified": true,
         "evaluated_at": "2026-02-28T16:47:54.189441"
+    },
+    "/works/OL44983631W": {
+        "title": "Agnes Aubert's Mystical Cat Shelter",
+        "genre": "fantasy",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-01T01:43:47.086783"
     }
 }
