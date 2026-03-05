@@ -47,5 +47,54 @@
         "ai_decision": "YES",
         "notified": true,
         "evaluated_at": "2026-03-01T01:43:47.086783"
+    },
+    "/works/OL42549968W": {
+        "title": "Lucky Day",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-05T01:24:01.553930"
+    },
+    "/works/OL42450544W": {
+        "title": "What Billions Can't Buy",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-05T01:24:02.992352"
+    },
+    "/works/OL42406651W": {
+        "title": "Paranoia",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-05T01:24:04.067544"
+    },
+    "/works/OL42356886W": {
+        "title": "Holmes is missing",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-05T01:24:05.619443"
+    },
+    "/works/OL42356878W": {
+        "title": "The Three Lives of Cate Kay",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-05T01:24:06.899566"
+    },
+    "/works/OL39390488W": {
+        "title": "The Stolen Queen",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-05T01:24:10.776500"
+    },
+    "/works/OL42549801W": {
+        "title": "Broken Country",
+        "genre": "thriller",
+        "ai_decision": "YES",
+        "notified": true,
+        "evaluated_at": "2026-03-05T01:24:12.025838"
     }
 }
